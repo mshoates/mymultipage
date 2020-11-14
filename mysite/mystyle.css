@@ -1,0 +1,40 @@
+/*MEDIA QUERY*/
+h1 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    color: gold;
+    outline: black; 
+}
+h2 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    color: rgb(0, 0, 0)
+}
+h4 {
+    color:orange; color: greenyellow;
+}
+
+h5 {
+    color: rgb(8, 248, 8);
+}
+
+body {
+    
+    background-color: rgb(90, 90, 90);
+}
+
+p {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    color: rgb(255, 187, 0);
+}
+a {
+    color: rgb(8, 248, 8);
+}
+
+form{
+
+    text-align: right;
+}
+
+
